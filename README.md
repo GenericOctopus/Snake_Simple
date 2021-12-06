@@ -1,6 +1,6 @@
 # Snake_Simple
 
-
+<pre>
 Rough draft of a snake game.
 
 TODO:
@@ -9,3 +9,4 @@ TODO:
 
 Bugs:
   Apple can spawn inside snake body.
+</pre>
